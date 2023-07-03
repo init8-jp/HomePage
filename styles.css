@@ -1,0 +1,40 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #118060; /* 946 * 124.8 */
+    padding: 20px;
+    color: #fff;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  footer {
+    background-color: #120556; /* 966 * 124.8 */
+    padding: 20px;
+    text-align: center;
+    color: #cccccc; /* フッターの文字色を設定 ff * 0.8 */
+  }
+  
+  #vision,
+  #members,
+  #achievements {
+    margin-bottom: 20px;
+  }
+  
+  /* 追加のアクセントカラー */
+  .accent-color {
+    color: #FFD700;
+  }
+  
+  .accent-background {
+    background-color: #FFD700;
+  }
+  
