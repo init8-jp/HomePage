@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "Tella"
-author = "username"
+author = "init8"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
