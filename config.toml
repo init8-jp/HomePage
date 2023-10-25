@@ -13,6 +13,12 @@ enableRobotsTXT = true
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
 
+# Google Analytics Id 
+ga_analytics = "G-6MGE237E3H"
+
+# Google tag manager
+google_tag_manager_id = "G-6MGE237E3H"
+
 # Disqus Comment System
 #disqusShortname = ""
 
