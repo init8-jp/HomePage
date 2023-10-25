@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Tella"
+title = "init8"
 author = "init8"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -24,15 +24,16 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/IMG_6040.png"
+    # main = "img/logo/logo.svg"
+    alt = "init8 Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "init8"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -40,14 +41,14 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_og_title = "init8"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_og_url = "https://init8.jp"
+    # meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_description = "init8 wa totemo hajiketa hitotachi desu."
+    # meta_twitter_card = "summary_large_image"
+    # meta_twitter_site = "@username"
+    # meta_twitter_creator = "@username"
 
 [menu]
 
