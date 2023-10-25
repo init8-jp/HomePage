@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/IMG_6040.png"
+    main = "img/logo/IMG_6039.png"
     # main = "img/logo/logo.svg"
     alt = "init8 Logo"
 
