@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
@@ -59,28 +59,22 @@ google_tag_manager_id = "G-6MGE237E3H"
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "About"
+    name = "About"
+    url = "/about"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "Achievements"
+    name = "Achievements"
+    url = "/achievements/"
     weight = 2
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
   # Footer Menu
   [[menu.footer]]
@@ -90,6 +84,6 @@ google_tag_manager_id = "G-6MGE237E3H"
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/int8-jp"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
