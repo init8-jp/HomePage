@@ -9,7 +9,13 @@ description = ""
 init8の名前には, ｢initiative｣や｢initialize｣, ｢温故知新｣などの複数の意味が込められています.  
 uniqueなものづくりとコンテンツを提供いたします.  
 
+
 ## メンバー一覧
 
-- sinohiro: [@sinohiro966](https://twitter.com/sinohiro966)
-- umiwatarin: [@umiwatarin](https://twitter.com/umiwatarin)
+- sinohiro: [@sinohiro966](https://twitter.com/sinohiro966) - 忙しくライブをしたりされたりしてる人
+- umiwatarin: [@umiwatarin](https://twitter.com/umiwatarin) - 足と口だけは動く人
+
+
+## サポーターズ
+
+- UDHI-LAB: [udhi-lab.com](https://udhi-lab.com) - Web関連のサポート
