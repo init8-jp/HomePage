@@ -13,3 +13,9 @@ description = ""
 
 ## Jun.
 - KimIToMIKU: [kimitomiku.live](https://kimitomiku.live) - ｢KimIToMIKU｣というイベントに協力しました.  
+
+
+# 2024
+
+## Apr.
+- KimIToMIKU - 新入生歓迎ライブに協力しました.
