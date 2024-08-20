@@ -19,3 +19,6 @@ description = ""
 
 ## Apr.
 - KimIToMIKU - 新入生歓迎ライブに協力しました.
+
+## Jun.
+- KimIToMIKU - 「KimIToMIKU」に協力しました.
