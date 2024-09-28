@@ -84,6 +84,6 @@ google_tag_manager_id = "G-6MGE237E3H"
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/int8-jp"
+    url = "https://github.com/init8-jp"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
